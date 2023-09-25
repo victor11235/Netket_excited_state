@@ -12,4 +12,6 @@ The code written is based on existing Netket implementation of ground state vari
 `Data`: This folder contains the previously obtained approximate ground state and first excited state in neural network quantum state form (variational parameters). The energy descent data will also be stored here.
 
 ## reference
-The quantum many-body problem studied in this demo can be found in [this paper] (https://arxiv.org/abs/2307.03310)
+The quantum many-body problem studied in this demo can be found here (https://arxiv.org/abs/2307.03310). The central spin model is of practical importance, e.g., for studying non-Markovian decoherence dynamics of a central spin interacting with a large bath of environmental spins and for studies of nonequilibrium superconductivity.
+
+For a derivation of the gradient expression with penalty terms added, see Appendix A of the same paper (https://arxiv.org/abs/2307.03310). 
