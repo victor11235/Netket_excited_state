@@ -1,7 +1,7 @@
 # Netket_excited_state
 
 ## code 
-The code written is based on existing Netket implementation of ground state variational Monte Carlo algorithm 
+The code written is based on the existing Netket implementation of ground state variational Monte Carlo algorithm 
 
 `vmc_ex.py`: The penalty excited state version of the vmc driver for ground state in Netket. 
 
